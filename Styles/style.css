@@ -55,15 +55,18 @@
     padding-left: 294px;
     padding-right: 294px;
 }
-.banner button{
+.banner button {
    background-color: black;
-   color: white;
+   
    padding: 21px 24px;
    border: none;
    border-radius: 5px;
    margin-top: 25px;
 }
-
+.banner button a{
+    color: white;
+    text-decoration: none;
+}
 /* learn-web-dev */
 .learn-web-dev{
     margin: 74px 148px;
