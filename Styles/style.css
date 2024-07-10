@@ -5,7 +5,7 @@
     font-size: 24px;
     font-weight: bolder;
 }
-.target-items-des{
+.get-itartems-des{
     font-size: 16px;
 }
 
@@ -211,6 +211,54 @@
 .next-target{
     padding: 0 97px;
 }
+.next-target-react{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 10px;
+    padding: 40px;
+    margin-bottom: 24px;
+}
+.next-target-react-content{
+    text-align: left;
+}
+.next-target a{
+    color: #0D1321;
+    font-size: 16px;
+    font-weight: bold;
+}
+.next-target-node{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 10px;
+    padding: 40px;
+    margin-bottom: 24px;
+}
+.next-target-mongoDB{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 10px;
+    padding: 40px;
+    margin-bottom: 24px;
+}
+.next-target img{
+    width: 98px;
+    height: 108px;
+}
+
+
+
+
+
+
+
+
+
 /* Footer Section */
 .web-footer-items{
     display: flex;
