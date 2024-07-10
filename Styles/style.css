@@ -208,6 +208,10 @@
     font-weight: bold;
 }
 
+.next-target{
+    margin-top: 80px;
+}
+
 .next-target-content{
     padding: 0 98px;
 }
